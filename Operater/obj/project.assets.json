@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unity\\BTExample1\\BTExample1.csproj",
+      "projectUniqueName": "D:\\Unity\\ExampleC\\Operater\\BTExample1.csproj",
       "projectName": "BTExample1",
-      "projectPath": "D:\\Unity\\BTExample1\\BTExample1.csproj",
+      "projectPath": "D:\\Unity\\ExampleC\\Operater\\BTExample1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Unity\\BTExample1\\obj\\",
+      "outputPath": "D:\\Unity\\ExampleC\\Operater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
