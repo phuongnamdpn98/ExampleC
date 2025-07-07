@@ -1,0 +1,14 @@
+D:\Unity\BTExample\bin\Debug\net8.0\BTExample.exe
+D:\Unity\BTExample\bin\Debug\net8.0\BTExample.deps.json
+D:\Unity\BTExample\bin\Debug\net8.0\BTExample.runtimeconfig.json
+D:\Unity\BTExample\bin\Debug\net8.0\BTExample.dll
+D:\Unity\BTExample\bin\Debug\net8.0\BTExample.pdb
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.AssemblyInfoInputs.cache
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.AssemblyInfo.cs
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.csproj.CoreCompileInputs.cache
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.dll
+D:\Unity\BTExample\obj\Debug\net8.0\refint\BTExample.dll
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.pdb
+D:\Unity\BTExample\obj\Debug\net8.0\BTExample.genruntimeconfig.cache
+D:\Unity\BTExample\obj\Debug\net8.0\ref\BTExample.dll
