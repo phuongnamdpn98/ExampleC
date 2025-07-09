@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCirclArea\bin\Debug\net8.0\ExampleCirclArea.exe
+D:\Unity\ExampleC\ExampleCirclArea\bin\Debug\net8.0\ExampleCirclArea.deps.json
+D:\Unity\ExampleC\ExampleCirclArea\bin\Debug\net8.0\ExampleCirclArea.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCirclArea\bin\Debug\net8.0\ExampleCirclArea.dll
+D:\Unity\ExampleC\ExampleCirclArea\bin\Debug\net8.0\ExampleCirclArea.pdb
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.sourcelink.json
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.dll
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\refint\ExampleCirclArea.dll
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.pdb
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ExampleCirclArea.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCirclArea\obj\Debug\net8.0\ref\ExampleCirclArea.dll

@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.exe
+D:\Unity\ExampleC\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.deps.json
+D:\Unity\ExampleC\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.dll
+D:\Unity\ExampleC\ExampleCheckAge\bin\Debug\net8.0\ExampleCheckAge.pdb
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.sourcelink.json
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.dll
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\refint\ExampleCheckAge.dll
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.pdb
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ExampleCheckAge.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCheckAge\obj\Debug\net8.0\ref\ExampleCheckAge.dll

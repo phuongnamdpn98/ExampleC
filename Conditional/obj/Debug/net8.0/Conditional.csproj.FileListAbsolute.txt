@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\Conditional\bin\Debug\net8.0\Conditional.exe
+D:\Unity\ExampleC\Conditional\bin\Debug\net8.0\Conditional.deps.json
+D:\Unity\ExampleC\Conditional\bin\Debug\net8.0\Conditional.runtimeconfig.json
+D:\Unity\ExampleC\Conditional\bin\Debug\net8.0\Conditional.dll
+D:\Unity\ExampleC\Conditional\bin\Debug\net8.0\Conditional.pdb
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.AssemblyInfo.cs
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.sourcelink.json
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.dll
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\refint\Conditional.dll
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.pdb
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\Conditional.genruntimeconfig.cache
+D:\Unity\ExampleC\Conditional\obj\Debug\net8.0\ref\Conditional.dll
