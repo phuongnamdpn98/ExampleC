@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExamplePTBH\bin\Debug\net8.0\ExamplePTBH.exe
+D:\Unity\ExampleC\ExamplePTBH\bin\Debug\net8.0\ExamplePTBH.deps.json
+D:\Unity\ExampleC\ExamplePTBH\bin\Debug\net8.0\ExamplePTBH.runtimeconfig.json
+D:\Unity\ExampleC\ExamplePTBH\bin\Debug\net8.0\ExamplePTBH.dll
+D:\Unity\ExampleC\ExamplePTBH\bin\Debug\net8.0\ExamplePTBH.pdb
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.AssemblyInfo.cs
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.sourcelink.json
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.dll
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\refint\ExamplePTBH.dll
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.pdb
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ExamplePTBH.genruntimeconfig.cache
+D:\Unity\ExampleC\ExamplePTBH\obj\Debug\net8.0\ref\ExamplePTBH.dll

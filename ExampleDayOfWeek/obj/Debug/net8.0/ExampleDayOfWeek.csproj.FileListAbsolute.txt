@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleDayOfWeek\bin\Debug\net8.0\ExampleDayOfWeek.exe
+D:\Unity\ExampleC\ExampleDayOfWeek\bin\Debug\net8.0\ExampleDayOfWeek.deps.json
+D:\Unity\ExampleC\ExampleDayOfWeek\bin\Debug\net8.0\ExampleDayOfWeek.runtimeconfig.json
+D:\Unity\ExampleC\ExampleDayOfWeek\bin\Debug\net8.0\ExampleDayOfWeek.dll
+D:\Unity\ExampleC\ExampleDayOfWeek\bin\Debug\net8.0\ExampleDayOfWeek.pdb
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.sourcelink.json
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.dll
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\refint\ExampleDayOfWeek.dll
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.pdb
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ExampleDayOfWeek.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleDayOfWeek\obj\Debug\net8.0\ref\ExampleDayOfWeek.dll

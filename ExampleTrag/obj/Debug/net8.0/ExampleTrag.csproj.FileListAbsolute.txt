@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleTrag\bin\Debug\net8.0\ExampleTrag.exe
+D:\Unity\ExampleC\ExampleTrag\bin\Debug\net8.0\ExampleTrag.deps.json
+D:\Unity\ExampleC\ExampleTrag\bin\Debug\net8.0\ExampleTrag.runtimeconfig.json
+D:\Unity\ExampleC\ExampleTrag\bin\Debug\net8.0\ExampleTrag.dll
+D:\Unity\ExampleC\ExampleTrag\bin\Debug\net8.0\ExampleTrag.pdb
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.sourcelink.json
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.dll
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\refint\ExampleTrag.dll
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.pdb
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ExampleTrag.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleTrag\obj\Debug\net8.0\ref\ExampleTrag.dll

@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.exe
+D:\Unity\ExampleC\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.deps.json
+D:\Unity\ExampleC\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.runtimeconfig.json
+D:\Unity\ExampleC\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.dll
+D:\Unity\ExampleC\ExampleNumberChar\bin\Debug\net8.0\ExampleNumberChar.pdb
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.sourcelink.json
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.dll
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\refint\ExampleNumberChar.dll
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.pdb
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ExampleNumberChar.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleNumberChar\obj\Debug\net8.0\ref\ExampleNumberChar.dll

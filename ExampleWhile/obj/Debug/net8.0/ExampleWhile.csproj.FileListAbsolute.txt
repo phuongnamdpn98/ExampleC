@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleWhile\bin\Debug\net8.0\ExampleWhile.exe
+D:\Unity\ExampleC\ExampleWhile\bin\Debug\net8.0\ExampleWhile.deps.json
+D:\Unity\ExampleC\ExampleWhile\bin\Debug\net8.0\ExampleWhile.runtimeconfig.json
+D:\Unity\ExampleC\ExampleWhile\bin\Debug\net8.0\ExampleWhile.dll
+D:\Unity\ExampleC\ExampleWhile\bin\Debug\net8.0\ExampleWhile.pdb
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.sourcelink.json
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.dll
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\refint\ExampleWhile.dll
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.pdb
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ExampleWhile.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleWhile\obj\Debug\net8.0\ref\ExampleWhile.dll

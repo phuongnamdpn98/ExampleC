@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleForEach\bin\Debug\net8.0\ExampleForEach.exe
+D:\Unity\ExampleC\ExampleForEach\bin\Debug\net8.0\ExampleForEach.deps.json
+D:\Unity\ExampleC\ExampleForEach\bin\Debug\net8.0\ExampleForEach.runtimeconfig.json
+D:\Unity\ExampleC\ExampleForEach\bin\Debug\net8.0\ExampleForEach.dll
+D:\Unity\ExampleC\ExampleForEach\bin\Debug\net8.0\ExampleForEach.pdb
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.sourcelink.json
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.dll
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\refint\ExampleForEach.dll
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.pdb
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ExampleForEach.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleForEach\obj\Debug\net8.0\ref\ExampleForEach.dll

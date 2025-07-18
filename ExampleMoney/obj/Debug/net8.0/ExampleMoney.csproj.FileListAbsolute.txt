@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleMoney\bin\Debug\net8.0\ExampleMoney.exe
+D:\Unity\ExampleC\ExampleMoney\bin\Debug\net8.0\ExampleMoney.deps.json
+D:\Unity\ExampleC\ExampleMoney\bin\Debug\net8.0\ExampleMoney.runtimeconfig.json
+D:\Unity\ExampleC\ExampleMoney\bin\Debug\net8.0\ExampleMoney.dll
+D:\Unity\ExampleC\ExampleMoney\bin\Debug\net8.0\ExampleMoney.pdb
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.sourcelink.json
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.dll
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\refint\ExampleMoney.dll
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.pdb
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ExampleMoney.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleMoney\obj\Debug\net8.0\ref\ExampleMoney.dll

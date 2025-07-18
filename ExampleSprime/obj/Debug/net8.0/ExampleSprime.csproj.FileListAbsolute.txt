@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleSprime\bin\Debug\net8.0\ExampleSprime.exe
+D:\Unity\ExampleC\ExampleSprime\bin\Debug\net8.0\ExampleSprime.deps.json
+D:\Unity\ExampleC\ExampleSprime\bin\Debug\net8.0\ExampleSprime.runtimeconfig.json
+D:\Unity\ExampleC\ExampleSprime\bin\Debug\net8.0\ExampleSprime.dll
+D:\Unity\ExampleC\ExampleSprime\bin\Debug\net8.0\ExampleSprime.pdb
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.sourcelink.json
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.dll
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\refint\ExampleSprime.dll
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.pdb
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ExampleSprime.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleSprime\obj\Debug\net8.0\ref\ExampleSprime.dll

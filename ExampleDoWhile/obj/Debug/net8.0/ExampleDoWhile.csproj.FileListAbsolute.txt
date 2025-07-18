@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleDoWhile\bin\Debug\net8.0\ExampleDoWhile.exe
+D:\Unity\ExampleC\ExampleDoWhile\bin\Debug\net8.0\ExampleDoWhile.deps.json
+D:\Unity\ExampleC\ExampleDoWhile\bin\Debug\net8.0\ExampleDoWhile.runtimeconfig.json
+D:\Unity\ExampleC\ExampleDoWhile\bin\Debug\net8.0\ExampleDoWhile.dll
+D:\Unity\ExampleC\ExampleDoWhile\bin\Debug\net8.0\ExampleDoWhile.pdb
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.sourcelink.json
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.dll
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\refint\ExampleDoWhile.dll
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.pdb
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ExampleDoWhile.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleDoWhile\obj\Debug\net8.0\ref\ExampleDoWhile.dll

@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExamplePTBacNhat\bin\Debug\net8.0\ExamplePTBacNhat.exe
+D:\Unity\ExampleC\ExamplePTBacNhat\bin\Debug\net8.0\ExamplePTBacNhat.deps.json
+D:\Unity\ExampleC\ExamplePTBacNhat\bin\Debug\net8.0\ExamplePTBacNhat.runtimeconfig.json
+D:\Unity\ExampleC\ExamplePTBacNhat\bin\Debug\net8.0\ExamplePTBacNhat.dll
+D:\Unity\ExampleC\ExamplePTBacNhat\bin\Debug\net8.0\ExamplePTBacNhat.pdb
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.AssemblyInfo.cs
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.sourcelink.json
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.dll
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\refint\ExamplePTBacNhat.dll
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.pdb
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ExamplePTBacNhat.genruntimeconfig.cache
+D:\Unity\ExampleC\ExamplePTBacNhat\obj\Debug\net8.0\ref\ExamplePTBacNhat.dll

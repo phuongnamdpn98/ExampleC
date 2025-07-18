@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleAdvanceLambada\bin\Debug\net8.0\ExampleAdvanceLambada.exe
+D:\Unity\ExampleC\ExampleAdvanceLambada\bin\Debug\net8.0\ExampleAdvanceLambada.deps.json
+D:\Unity\ExampleC\ExampleAdvanceLambada\bin\Debug\net8.0\ExampleAdvanceLambada.runtimeconfig.json
+D:\Unity\ExampleC\ExampleAdvanceLambada\bin\Debug\net8.0\ExampleAdvanceLambada.dll
+D:\Unity\ExampleC\ExampleAdvanceLambada\bin\Debug\net8.0\ExampleAdvanceLambada.pdb
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.sourcelink.json
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.dll
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\refint\ExampleAdvanceLambada.dll
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.pdb
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ExampleAdvanceLambada.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleAdvanceLambada\obj\Debug\net8.0\ref\ExampleAdvanceLambada.dll
