@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleMoneyChange\bin\Debug\net8.0\ExampleMoneyChange.exe
+D:\Unity\ExampleC\ExampleMoneyChange\bin\Debug\net8.0\ExampleMoneyChange.deps.json
+D:\Unity\ExampleC\ExampleMoneyChange\bin\Debug\net8.0\ExampleMoneyChange.runtimeconfig.json
+D:\Unity\ExampleC\ExampleMoneyChange\bin\Debug\net8.0\ExampleMoneyChange.dll
+D:\Unity\ExampleC\ExampleMoneyChange\bin\Debug\net8.0\ExampleMoneyChange.pdb
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.sourcelink.json
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.dll
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\refint\ExampleMoneyChange.dll
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.pdb
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ExampleMoneyChange.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleMoneyChange\obj\Debug\net8.0\ref\ExampleMoneyChange.dll
