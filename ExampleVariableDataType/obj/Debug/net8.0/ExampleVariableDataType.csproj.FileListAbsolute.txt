@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleVariableDataType\bin\Debug\net8.0\ExampleVariableDataType.exe
+D:\Unity\ExampleC\ExampleVariableDataType\bin\Debug\net8.0\ExampleVariableDataType.deps.json
+D:\Unity\ExampleC\ExampleVariableDataType\bin\Debug\net8.0\ExampleVariableDataType.runtimeconfig.json
+D:\Unity\ExampleC\ExampleVariableDataType\bin\Debug\net8.0\ExampleVariableDataType.dll
+D:\Unity\ExampleC\ExampleVariableDataType\bin\Debug\net8.0\ExampleVariableDataType.pdb
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.sourcelink.json
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.dll
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\refint\ExampleVariableDataType.dll
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.pdb
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ExampleVariableDataType.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleVariableDataType\obj\Debug\net8.0\ref\ExampleVariableDataType.dll

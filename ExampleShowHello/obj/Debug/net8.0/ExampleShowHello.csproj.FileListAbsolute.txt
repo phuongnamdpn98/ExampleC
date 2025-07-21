@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleShowHello\bin\Debug\net8.0\ExampleShowHello.exe
+D:\Unity\ExampleC\ExampleShowHello\bin\Debug\net8.0\ExampleShowHello.deps.json
+D:\Unity\ExampleC\ExampleShowHello\bin\Debug\net8.0\ExampleShowHello.runtimeconfig.json
+D:\Unity\ExampleC\ExampleShowHello\bin\Debug\net8.0\ExampleShowHello.dll
+D:\Unity\ExampleC\ExampleShowHello\bin\Debug\net8.0\ExampleShowHello.pdb
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.sourcelink.json
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.dll
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\refint\ExampleShowHello.dll
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.pdb
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ExampleShowHello.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleShowHello\obj\Debug\net8.0\ref\ExampleShowHello.dll

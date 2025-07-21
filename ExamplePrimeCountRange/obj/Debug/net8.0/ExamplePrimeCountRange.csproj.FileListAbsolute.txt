@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExamplePrimeCountRange\bin\Debug\net8.0\ExamplePrimeCountRange.exe
+D:\Unity\ExampleC\ExamplePrimeCountRange\bin\Debug\net8.0\ExamplePrimeCountRange.deps.json
+D:\Unity\ExampleC\ExamplePrimeCountRange\bin\Debug\net8.0\ExamplePrimeCountRange.runtimeconfig.json
+D:\Unity\ExampleC\ExamplePrimeCountRange\bin\Debug\net8.0\ExamplePrimeCountRange.dll
+D:\Unity\ExampleC\ExamplePrimeCountRange\bin\Debug\net8.0\ExamplePrimeCountRange.pdb
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.AssemblyInfo.cs
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.sourcelink.json
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.dll
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\refint\ExamplePrimeCountRange.dll
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.pdb
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ExamplePrimeCountRange.genruntimeconfig.cache
+D:\Unity\ExampleC\ExamplePrimeCountRange\obj\Debug\net8.0\ref\ExamplePrimeCountRange.dll
