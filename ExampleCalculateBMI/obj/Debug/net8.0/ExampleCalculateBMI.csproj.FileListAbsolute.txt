@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCalculateBMI\bin\Debug\net8.0\ExampleCalculateBMI.exe
+D:\Unity\ExampleC\ExampleCalculateBMI\bin\Debug\net8.0\ExampleCalculateBMI.deps.json
+D:\Unity\ExampleC\ExampleCalculateBMI\bin\Debug\net8.0\ExampleCalculateBMI.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCalculateBMI\bin\Debug\net8.0\ExampleCalculateBMI.dll
+D:\Unity\ExampleC\ExampleCalculateBMI\bin\Debug\net8.0\ExampleCalculateBMI.pdb
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.sourcelink.json
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.dll
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\refint\ExampleCalculateBMI.dll
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.pdb
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ExampleCalculateBMI.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCalculateBMI\obj\Debug\net8.0\ref\ExampleCalculateBMI.dll
