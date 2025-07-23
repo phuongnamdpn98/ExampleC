@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleInsertArray\bin\Debug\net8.0\ExampleInsertArray.exe
+D:\Unity\ExampleC\ExampleInsertArray\bin\Debug\net8.0\ExampleInsertArray.deps.json
+D:\Unity\ExampleC\ExampleInsertArray\bin\Debug\net8.0\ExampleInsertArray.runtimeconfig.json
+D:\Unity\ExampleC\ExampleInsertArray\bin\Debug\net8.0\ExampleInsertArray.dll
+D:\Unity\ExampleC\ExampleInsertArray\bin\Debug\net8.0\ExampleInsertArray.pdb
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.sourcelink.json
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.dll
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\refint\ExampleInsertArray.dll
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.pdb
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ExampleInsertArray.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleInsertArray\obj\Debug\net8.0\ref\ExampleInsertArray.dll

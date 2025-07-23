@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArrayMin\bin\Debug\net8.0\ExampleArrayMin.exe
+D:\Unity\ExampleC\ExampleArrayMin\bin\Debug\net8.0\ExampleArrayMin.deps.json
+D:\Unity\ExampleC\ExampleArrayMin\bin\Debug\net8.0\ExampleArrayMin.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArrayMin\bin\Debug\net8.0\ExampleArrayMin.dll
+D:\Unity\ExampleC\ExampleArrayMin\bin\Debug\net8.0\ExampleArrayMin.pdb
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.sourcelink.json
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.dll
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\refint\ExampleArrayMin.dll
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.pdb
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ExampleArrayMin.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArrayMin\obj\Debug\net8.0\ref\ExampleArrayMin.dll

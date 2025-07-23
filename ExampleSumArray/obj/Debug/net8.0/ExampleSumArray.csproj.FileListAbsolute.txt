@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleSumArray\bin\Debug\net8.0\ExampleSumArray.exe
+D:\Unity\ExampleC\ExampleSumArray\bin\Debug\net8.0\ExampleSumArray.deps.json
+D:\Unity\ExampleC\ExampleSumArray\bin\Debug\net8.0\ExampleSumArray.runtimeconfig.json
+D:\Unity\ExampleC\ExampleSumArray\bin\Debug\net8.0\ExampleSumArray.dll
+D:\Unity\ExampleC\ExampleSumArray\bin\Debug\net8.0\ExampleSumArray.pdb
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.sourcelink.json
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.dll
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\refint\ExampleSumArray.dll
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.pdb
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ExampleSumArray.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleSumArray\obj\Debug\net8.0\ref\ExampleSumArray.dll

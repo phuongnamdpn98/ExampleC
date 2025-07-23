@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleDictionary\bin\Debug\net8.0\ExampleDictionary.exe
+D:\Unity\ExampleC\ExampleDictionary\bin\Debug\net8.0\ExampleDictionary.deps.json
+D:\Unity\ExampleC\ExampleDictionary\bin\Debug\net8.0\ExampleDictionary.runtimeconfig.json
+D:\Unity\ExampleC\ExampleDictionary\bin\Debug\net8.0\ExampleDictionary.dll
+D:\Unity\ExampleC\ExampleDictionary\bin\Debug\net8.0\ExampleDictionary.pdb
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.sourcelink.json
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.dll
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\refint\ExampleDictionary.dll
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.pdb
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ExampleDictionary.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleDictionary\obj\Debug\net8.0\ref\ExampleDictionary.dll

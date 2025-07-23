@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArray\bin\Debug\net8.0\ExampleArray.exe
+D:\Unity\ExampleC\ExampleArray\bin\Debug\net8.0\ExampleArray.deps.json
+D:\Unity\ExampleC\ExampleArray\bin\Debug\net8.0\ExampleArray.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArray\bin\Debug\net8.0\ExampleArray.dll
+D:\Unity\ExampleC\ExampleArray\bin\Debug\net8.0\ExampleArray.pdb
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.sourcelink.json
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.dll
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\refint\ExampleArray.dll
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.pdb
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ExampleArray.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArray\obj\Debug\net8.0\ref\ExampleArray.dll

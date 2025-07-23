@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleGreateCommonFactor\bin\Debug\net8.0\ExampleGreateCommonFactor.exe
+D:\Unity\ExampleC\ExampleGreateCommonFactor\bin\Debug\net8.0\ExampleGreateCommonFactor.deps.json
+D:\Unity\ExampleC\ExampleGreateCommonFactor\bin\Debug\net8.0\ExampleGreateCommonFactor.runtimeconfig.json
+D:\Unity\ExampleC\ExampleGreateCommonFactor\bin\Debug\net8.0\ExampleGreateCommonFactor.dll
+D:\Unity\ExampleC\ExampleGreateCommonFactor\bin\Debug\net8.0\ExampleGreateCommonFactor.pdb
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.sourcelink.json
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.dll
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\refint\ExampleGreateCommonFactor.dll
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.pdb
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ExampleGreateCommonFactor.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleGreateCommonFactor\obj\Debug\net8.0\ref\ExampleGreateCommonFactor.dll

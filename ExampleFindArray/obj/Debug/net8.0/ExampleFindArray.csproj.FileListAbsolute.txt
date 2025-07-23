@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFindArray\bin\Debug\net8.0\ExampleFindArray.exe
+D:\Unity\ExampleC\ExampleFindArray\bin\Debug\net8.0\ExampleFindArray.deps.json
+D:\Unity\ExampleC\ExampleFindArray\bin\Debug\net8.0\ExampleFindArray.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFindArray\bin\Debug\net8.0\ExampleFindArray.dll
+D:\Unity\ExampleC\ExampleFindArray\bin\Debug\net8.0\ExampleFindArray.pdb
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.sourcelink.json
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.dll
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\refint\ExampleFindArray.dll
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.pdb
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ExampleFindArray.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFindArray\obj\Debug\net8.0\ref\ExampleFindArray.dll
