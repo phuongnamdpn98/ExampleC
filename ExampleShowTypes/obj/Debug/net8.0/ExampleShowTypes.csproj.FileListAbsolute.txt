@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleShowTypes\bin\Debug\net8.0\ExampleShowTypes.exe
+D:\Unity\ExampleC\ExampleShowTypes\bin\Debug\net8.0\ExampleShowTypes.deps.json
+D:\Unity\ExampleC\ExampleShowTypes\bin\Debug\net8.0\ExampleShowTypes.runtimeconfig.json
+D:\Unity\ExampleC\ExampleShowTypes\bin\Debug\net8.0\ExampleShowTypes.dll
+D:\Unity\ExampleC\ExampleShowTypes\bin\Debug\net8.0\ExampleShowTypes.pdb
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.sourcelink.json
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.dll
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\refint\ExampleShowTypes.dll
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.pdb
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ExampleShowTypes.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleShowTypes\obj\Debug\net8.0\ref\ExampleShowTypes.dll
