@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleSprime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b628787a2ba376f83fd7c192a1d0d1849ac411d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5937d5268bd4fba449a8d65f456c84142acd6e70")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleSprime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleSprime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

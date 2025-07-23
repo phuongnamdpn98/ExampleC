@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unity\\ExampleC\\ExampleSprime\\ExampleSprime.csproj",
+      "projectUniqueName": "D:\\Unity\\ExampleC\\ExamplePrime\\ExampleSprime.csproj",
       "projectName": "ExampleSprime",
-      "projectPath": "D:\\Unity\\ExampleC\\ExampleSprime\\ExampleSprime.csproj",
+      "projectPath": "D:\\Unity\\ExampleC\\ExamplePrime\\ExampleSprime.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Unity\\ExampleC\\ExampleSprime\\obj\\",
+      "outputPath": "D:\\Unity\\ExampleC\\ExamplePrime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
