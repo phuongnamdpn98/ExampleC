@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArrayTwoSum\bin\Debug\net8.0\ExampleArrayTwoSum.exe
+D:\Unity\ExampleC\ExampleArrayTwoSum\bin\Debug\net8.0\ExampleArrayTwoSum.deps.json
+D:\Unity\ExampleC\ExampleArrayTwoSum\bin\Debug\net8.0\ExampleArrayTwoSum.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArrayTwoSum\bin\Debug\net8.0\ExampleArrayTwoSum.dll
+D:\Unity\ExampleC\ExampleArrayTwoSum\bin\Debug\net8.0\ExampleArrayTwoSum.pdb
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.sourcelink.json
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.dll
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\refint\ExampleArrayTwoSum.dll
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.pdb
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ExampleArrayTwoSum.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArrayTwoSum\obj\Debug\net8.0\ref\ExampleArrayTwoSum.dll

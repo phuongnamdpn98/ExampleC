@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArrayTwoInt\bin\Debug\net8.0\ExampleArrayTwoInt.exe
+D:\Unity\ExampleC\ExampleArrayTwoInt\bin\Debug\net8.0\ExampleArrayTwoInt.deps.json
+D:\Unity\ExampleC\ExampleArrayTwoInt\bin\Debug\net8.0\ExampleArrayTwoInt.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArrayTwoInt\bin\Debug\net8.0\ExampleArrayTwoInt.dll
+D:\Unity\ExampleC\ExampleArrayTwoInt\bin\Debug\net8.0\ExampleArrayTwoInt.pdb
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.sourcelink.json
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.dll
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\refint\ExampleArrayTwoInt.dll
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.pdb
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ExampleArrayTwoInt.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArrayTwoInt\obj\Debug\net8.0\ref\ExampleArrayTwoInt.dll

@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFunction\bin\Debug\net8.0\ExampleFunction.exe
+D:\Unity\ExampleC\ExampleFunction\bin\Debug\net8.0\ExampleFunction.deps.json
+D:\Unity\ExampleC\ExampleFunction\bin\Debug\net8.0\ExampleFunction.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFunction\bin\Debug\net8.0\ExampleFunction.dll
+D:\Unity\ExampleC\ExampleFunction\bin\Debug\net8.0\ExampleFunction.pdb
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.sourcelink.json
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.dll
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\refint\ExampleFunction.dll
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.pdb
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ExampleFunction.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFunction\obj\Debug\net8.0\ref\ExampleFunction.dll

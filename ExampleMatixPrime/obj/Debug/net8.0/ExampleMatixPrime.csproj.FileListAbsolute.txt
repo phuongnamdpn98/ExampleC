@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleMatixPrime\bin\Debug\net8.0\ExampleMatixPrime.exe
+D:\Unity\ExampleC\ExampleMatixPrime\bin\Debug\net8.0\ExampleMatixPrime.deps.json
+D:\Unity\ExampleC\ExampleMatixPrime\bin\Debug\net8.0\ExampleMatixPrime.runtimeconfig.json
+D:\Unity\ExampleC\ExampleMatixPrime\bin\Debug\net8.0\ExampleMatixPrime.dll
+D:\Unity\ExampleC\ExampleMatixPrime\bin\Debug\net8.0\ExampleMatixPrime.pdb
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.sourcelink.json
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.dll
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\refint\ExampleMatixPrime.dll
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.pdb
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ExampleMatixPrime.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleMatixPrime\obj\Debug\net8.0\ref\ExampleMatixPrime.dll

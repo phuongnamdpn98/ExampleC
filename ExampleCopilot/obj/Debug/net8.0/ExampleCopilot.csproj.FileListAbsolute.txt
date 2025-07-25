@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCopilot\bin\Debug\net8.0\ExampleCopilot.exe
+D:\Unity\ExampleC\ExampleCopilot\bin\Debug\net8.0\ExampleCopilot.deps.json
+D:\Unity\ExampleC\ExampleCopilot\bin\Debug\net8.0\ExampleCopilot.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCopilot\bin\Debug\net8.0\ExampleCopilot.dll
+D:\Unity\ExampleC\ExampleCopilot\bin\Debug\net8.0\ExampleCopilot.pdb
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.sourcelink.json
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.dll
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\refint\ExampleCopilot.dll
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.pdb
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ExampleCopilot.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCopilot\obj\Debug\net8.0\ref\ExampleCopilot.dll

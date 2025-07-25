@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArrayTwoChane\bin\Debug\net8.0\ExampleArrayTwoChane.exe
+D:\Unity\ExampleC\ExampleArrayTwoChane\bin\Debug\net8.0\ExampleArrayTwoChane.deps.json
+D:\Unity\ExampleC\ExampleArrayTwoChane\bin\Debug\net8.0\ExampleArrayTwoChane.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArrayTwoChane\bin\Debug\net8.0\ExampleArrayTwoChane.dll
+D:\Unity\ExampleC\ExampleArrayTwoChane\bin\Debug\net8.0\ExampleArrayTwoChane.pdb
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.sourcelink.json
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.dll
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\refint\ExampleArrayTwoChane.dll
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.pdb
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ExampleArrayTwoChane.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArrayTwoChane\obj\Debug\net8.0\ref\ExampleArrayTwoChane.dll

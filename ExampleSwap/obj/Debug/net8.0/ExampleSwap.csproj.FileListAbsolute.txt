@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleSwap\bin\Debug\net8.0\ExampleSwap.exe
+D:\Unity\ExampleC\ExampleSwap\bin\Debug\net8.0\ExampleSwap.deps.json
+D:\Unity\ExampleC\ExampleSwap\bin\Debug\net8.0\ExampleSwap.runtimeconfig.json
+D:\Unity\ExampleC\ExampleSwap\bin\Debug\net8.0\ExampleSwap.dll
+D:\Unity\ExampleC\ExampleSwap\bin\Debug\net8.0\ExampleSwap.pdb
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.sourcelink.json
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.dll
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\refint\ExampleSwap.dll
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.pdb
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ExampleSwap.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleSwap\obj\Debug\net8.0\ref\ExampleSwap.dll
