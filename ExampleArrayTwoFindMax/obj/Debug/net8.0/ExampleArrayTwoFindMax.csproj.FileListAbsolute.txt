@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\bin\Debug\net8.0\ExampleArrayTwoFindMax.exe
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\bin\Debug\net8.0\ExampleArrayTwoFindMax.deps.json
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\bin\Debug\net8.0\ExampleArrayTwoFindMax.runtimeconfig.json
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\bin\Debug\net8.0\ExampleArrayTwoFindMax.dll
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\bin\Debug\net8.0\ExampleArrayTwoFindMax.pdb
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.sourcelink.json
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.dll
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\refint\ExampleArrayTwoFindMax.dll
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.pdb
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ExampleArrayTwoFindMax.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleArrayTwoFindMax\obj\Debug\net8.0\ref\ExampleArrayTwoFindMax.dll
