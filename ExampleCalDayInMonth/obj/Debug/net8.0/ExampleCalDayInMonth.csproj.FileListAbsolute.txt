@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCalDayInMonth\bin\Debug\net8.0\ExampleCalDayInMonth.exe
+D:\Unity\ExampleC\ExampleCalDayInMonth\bin\Debug\net8.0\ExampleCalDayInMonth.deps.json
+D:\Unity\ExampleC\ExampleCalDayInMonth\bin\Debug\net8.0\ExampleCalDayInMonth.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCalDayInMonth\bin\Debug\net8.0\ExampleCalDayInMonth.dll
+D:\Unity\ExampleC\ExampleCalDayInMonth\bin\Debug\net8.0\ExampleCalDayInMonth.pdb
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.sourcelink.json
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.dll
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\refint\ExampleCalDayInMonth.dll
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.pdb
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ExampleCalDayInMonth.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCalDayInMonth\obj\Debug\net8.0\ref\ExampleCalDayInMonth.dll
