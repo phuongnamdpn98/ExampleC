@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleLeapYear\bin\Debug\net8.0\ExampleLeapYear.exe
+D:\Unity\ExampleC\ExampleLeapYear\bin\Debug\net8.0\ExampleLeapYear.deps.json
+D:\Unity\ExampleC\ExampleLeapYear\bin\Debug\net8.0\ExampleLeapYear.runtimeconfig.json
+D:\Unity\ExampleC\ExampleLeapYear\bin\Debug\net8.0\ExampleLeapYear.dll
+D:\Unity\ExampleC\ExampleLeapYear\bin\Debug\net8.0\ExampleLeapYear.pdb
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.sourcelink.json
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.dll
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\refint\ExampleLeapYear.dll
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.pdb
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ExampleLeapYear.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleLeapYear\obj\Debug\net8.0\ref\ExampleLeapYear.dll
