@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleCounterChar\bin\Debug\net8.0\ExampleCounterChar.exe
+D:\Unity\ExampleC\ExampleCounterChar\bin\Debug\net8.0\ExampleCounterChar.deps.json
+D:\Unity\ExampleC\ExampleCounterChar\bin\Debug\net8.0\ExampleCounterChar.runtimeconfig.json
+D:\Unity\ExampleC\ExampleCounterChar\bin\Debug\net8.0\ExampleCounterChar.dll
+D:\Unity\ExampleC\ExampleCounterChar\bin\Debug\net8.0\ExampleCounterChar.pdb
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.sourcelink.json
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.dll
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\refint\ExampleCounterChar.dll
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.pdb
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ExampleCounterChar.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleCounterChar\obj\Debug\net8.0\ref\ExampleCounterChar.dll

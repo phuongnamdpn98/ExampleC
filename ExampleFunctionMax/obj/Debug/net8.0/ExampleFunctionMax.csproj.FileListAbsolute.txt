@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFunctionMax\bin\Debug\net8.0\ExampleFunctionMax.exe
+D:\Unity\ExampleC\ExampleFunctionMax\bin\Debug\net8.0\ExampleFunctionMax.deps.json
+D:\Unity\ExampleC\ExampleFunctionMax\bin\Debug\net8.0\ExampleFunctionMax.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFunctionMax\bin\Debug\net8.0\ExampleFunctionMax.dll
+D:\Unity\ExampleC\ExampleFunctionMax\bin\Debug\net8.0\ExampleFunctionMax.pdb
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.sourcelink.json
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.dll
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\refint\ExampleFunctionMax.dll
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.pdb
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ExampleFunctionMax.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFunctionMax\obj\Debug\net8.0\ref\ExampleFunctionMax.dll
