@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\bin\Debug\net8.0\ExampleFunctionRemoveElementArray.exe
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\bin\Debug\net8.0\ExampleFunctionRemoveElementArray.deps.json
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\bin\Debug\net8.0\ExampleFunctionRemoveElementArray.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\bin\Debug\net8.0\ExampleFunctionRemoveElementArray.dll
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\bin\Debug\net8.0\ExampleFunctionRemoveElementArray.pdb
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.sourcelink.json
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.dll
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\refint\ExampleFunctionRemoveElementArray.dll
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.pdb
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ExampleFunctionRemoveElementArray.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFunctionRemoveElementArray\obj\Debug\net8.0\ref\ExampleFunctionRemoveElementArray.dll
