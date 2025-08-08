@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleFunctionCountChar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49935d91b25fe4842b9089d9b8a4822080e9dd6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d8afcaf7254495fb257e05bf9506d4a5137990")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleFunctionCountChar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleFunctionCountChar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

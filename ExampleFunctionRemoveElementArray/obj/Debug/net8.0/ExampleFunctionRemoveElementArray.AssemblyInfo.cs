@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleFunctionRemoveElementArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85f641172f7597307c865bf69a6ef3b8f6f9ce1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d8afcaf7254495fb257e05bf9506d4a5137990")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleFunctionRemoveElementArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleFunctionRemoveElementArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

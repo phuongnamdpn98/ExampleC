@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unity\\ExampleC\\ExampleChangeTemperature\\ExampleChangeTemperature.csproj",
+      "projectUniqueName": "D:\\Unity\\ExampleC\\ExampleFunctionChangeTemperature\\ExampleChangeTemperature.csproj",
       "projectName": "ExampleChangeTemperature",
-      "projectPath": "D:\\Unity\\ExampleC\\ExampleChangeTemperature\\ExampleChangeTemperature.csproj",
+      "projectPath": "D:\\Unity\\ExampleC\\ExampleFunctionChangeTemperature\\ExampleChangeTemperature.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Unity\\ExampleC\\ExampleChangeTemperature\\obj\\",
+      "outputPath": "D:\\Unity\\ExampleC\\ExampleFunctionChangeTemperature\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
