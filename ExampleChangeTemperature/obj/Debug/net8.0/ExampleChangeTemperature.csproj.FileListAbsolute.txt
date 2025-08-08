@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleChangeTemperature\bin\Debug\net8.0\ExampleChangeTemperature.exe
+D:\Unity\ExampleC\ExampleChangeTemperature\bin\Debug\net8.0\ExampleChangeTemperature.deps.json
+D:\Unity\ExampleC\ExampleChangeTemperature\bin\Debug\net8.0\ExampleChangeTemperature.runtimeconfig.json
+D:\Unity\ExampleC\ExampleChangeTemperature\bin\Debug\net8.0\ExampleChangeTemperature.dll
+D:\Unity\ExampleC\ExampleChangeTemperature\bin\Debug\net8.0\ExampleChangeTemperature.pdb
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.sourcelink.json
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.dll
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\refint\ExampleChangeTemperature.dll
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.pdb
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ExampleChangeTemperature.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleChangeTemperature\obj\Debug\net8.0\ref\ExampleChangeTemperature.dll

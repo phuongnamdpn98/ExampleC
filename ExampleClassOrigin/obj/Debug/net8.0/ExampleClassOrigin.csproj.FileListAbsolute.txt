@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassOrigin\bin\Debug\net8.0\ExampleClassOrigin.exe
+D:\Unity\ExampleC\ExampleClassOrigin\bin\Debug\net8.0\ExampleClassOrigin.deps.json
+D:\Unity\ExampleC\ExampleClassOrigin\bin\Debug\net8.0\ExampleClassOrigin.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassOrigin\bin\Debug\net8.0\ExampleClassOrigin.dll
+D:\Unity\ExampleC\ExampleClassOrigin\bin\Debug\net8.0\ExampleClassOrigin.pdb
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.sourcelink.json
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.dll
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\refint\ExampleClassOrigin.dll
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.pdb
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ExampleClassOrigin.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassOrigin\obj\Debug\net8.0\ref\ExampleClassOrigin.dll

@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleSystemDe\bin\Debug\net8.0\ExampleSystemDe.exe
+D:\Unity\ExampleC\ExampleSystemDe\bin\Debug\net8.0\ExampleSystemDe.deps.json
+D:\Unity\ExampleC\ExampleSystemDe\bin\Debug\net8.0\ExampleSystemDe.runtimeconfig.json
+D:\Unity\ExampleC\ExampleSystemDe\bin\Debug\net8.0\ExampleSystemDe.dll
+D:\Unity\ExampleC\ExampleSystemDe\bin\Debug\net8.0\ExampleSystemDe.pdb
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.sourcelink.json
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.dll
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\refint\ExampleSystemDe.dll
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.pdb
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ExampleSystemDe.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleSystemDe\obj\Debug\net8.0\ref\ExampleSystemDe.dll

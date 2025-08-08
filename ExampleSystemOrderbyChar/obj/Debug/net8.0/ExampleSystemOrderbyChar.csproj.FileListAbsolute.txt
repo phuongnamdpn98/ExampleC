@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\bin\Debug\net8.0\ExampleSystemOrderbyChar.exe
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\bin\Debug\net8.0\ExampleSystemOrderbyChar.deps.json
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\bin\Debug\net8.0\ExampleSystemOrderbyChar.runtimeconfig.json
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\bin\Debug\net8.0\ExampleSystemOrderbyChar.dll
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\bin\Debug\net8.0\ExampleSystemOrderbyChar.pdb
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.sourcelink.json
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.dll
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\refint\ExampleSystemOrderbyChar.dll
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.pdb
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ExampleSystemOrderbyChar.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleSystemOrderbyChar\obj\Debug\net8.0\ref\ExampleSystemOrderbyChar.dll
