@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.sourcelink.json
+D:\Unity\ExampleC\ExampleFunctionCountChar\bin\Debug\net8.0\ExampleFunctionCountChar.exe
+D:\Unity\ExampleC\ExampleFunctionCountChar\bin\Debug\net8.0\ExampleFunctionCountChar.deps.json
+D:\Unity\ExampleC\ExampleFunctionCountChar\bin\Debug\net8.0\ExampleFunctionCountChar.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFunctionCountChar\bin\Debug\net8.0\ExampleFunctionCountChar.dll
+D:\Unity\ExampleC\ExampleFunctionCountChar\bin\Debug\net8.0\ExampleFunctionCountChar.pdb
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.dll
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\refint\ExampleFunctionCountChar.dll
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.pdb
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ExampleFunctionCountChar.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFunctionCountChar\obj\Debug\net8.0\ref\ExampleFunctionCountChar.dll
