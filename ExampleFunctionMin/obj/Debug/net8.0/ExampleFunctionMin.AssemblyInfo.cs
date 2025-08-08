@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleFunctionMin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9041dcc9a3ebc7b868efa69db8b6e18141305e6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e23ab5700556d5010205aa04c6785611c1460ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleFunctionMin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleFunctionMin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
