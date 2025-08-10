@@ -14,6 +14,8 @@ namespace Example
             double r = Convert.ToDouble(Console.ReadLine());
             double s = Math.PI * r * r;
             Console.WriteLine("Bán kính là: " + s);
+            //ConsoleKey key = Console.ReadKey(true).Key;
+            //Console.WriteLine(Console.ReadKey(false).Key);
         }
     }
 }

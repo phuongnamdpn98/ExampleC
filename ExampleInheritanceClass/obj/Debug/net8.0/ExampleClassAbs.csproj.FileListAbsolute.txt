@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleInheritanceClass\bin\Debug\net8.0\ExampleClassAbs.exe
+D:\Unity\ExampleC\ExampleInheritanceClass\bin\Debug\net8.0\ExampleClassAbs.deps.json
+D:\Unity\ExampleC\ExampleInheritanceClass\bin\Debug\net8.0\ExampleClassAbs.runtimeconfig.json
+D:\Unity\ExampleC\ExampleInheritanceClass\bin\Debug\net8.0\ExampleClassAbs.dll
+D:\Unity\ExampleC\ExampleInheritanceClass\bin\Debug\net8.0\ExampleClassAbs.pdb
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.sourcelink.json
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.dll
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\refint\ExampleClassAbs.dll
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.pdb
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ExampleClassAbs.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleInheritanceClass\obj\Debug\net8.0\ref\ExampleClassAbs.dll
