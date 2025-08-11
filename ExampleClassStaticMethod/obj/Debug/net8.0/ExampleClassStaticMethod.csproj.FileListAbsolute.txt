@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassStaticMethod\bin\Debug\net8.0\ExampleClassStaticMethod.exe
+D:\Unity\ExampleC\ExampleClassStaticMethod\bin\Debug\net8.0\ExampleClassStaticMethod.deps.json
+D:\Unity\ExampleC\ExampleClassStaticMethod\bin\Debug\net8.0\ExampleClassStaticMethod.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassStaticMethod\bin\Debug\net8.0\ExampleClassStaticMethod.dll
+D:\Unity\ExampleC\ExampleClassStaticMethod\bin\Debug\net8.0\ExampleClassStaticMethod.pdb
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.sourcelink.json
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.dll
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\refint\ExampleClassStaticMethod.dll
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.pdb
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ExampleClassStaticMethod.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassStaticMethod\obj\Debug\net8.0\ref\ExampleClassStaticMethod.dll
