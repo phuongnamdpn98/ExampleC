@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassStopWatch\bin\Debug\net8.0\ExampleClassStopWatch.exe
+D:\Unity\ExampleC\ExampleClassStopWatch\bin\Debug\net8.0\ExampleClassStopWatch.deps.json
+D:\Unity\ExampleC\ExampleClassStopWatch\bin\Debug\net8.0\ExampleClassStopWatch.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassStopWatch\bin\Debug\net8.0\ExampleClassStopWatch.dll
+D:\Unity\ExampleC\ExampleClassStopWatch\bin\Debug\net8.0\ExampleClassStopWatch.pdb
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.sourcelink.json
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.dll
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\refint\ExampleClassStopWatch.dll
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.pdb
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ExampleClassStopWatch.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassStopWatch\obj\Debug\net8.0\ref\ExampleClassStopWatch.dll

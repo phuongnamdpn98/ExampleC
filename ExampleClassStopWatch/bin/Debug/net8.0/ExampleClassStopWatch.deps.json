@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExampleClassStopWatch/1.0.0": {
+        "runtime": {
+          "ExampleClassStopWatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleClassStopWatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
