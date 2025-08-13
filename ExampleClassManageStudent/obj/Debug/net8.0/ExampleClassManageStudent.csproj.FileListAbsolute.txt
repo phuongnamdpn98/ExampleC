@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassManageStudent\bin\Debug\net8.0\ExampleClassManageStudent.exe
+D:\Unity\ExampleC\ExampleClassManageStudent\bin\Debug\net8.0\ExampleClassManageStudent.deps.json
+D:\Unity\ExampleC\ExampleClassManageStudent\bin\Debug\net8.0\ExampleClassManageStudent.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassManageStudent\bin\Debug\net8.0\ExampleClassManageStudent.dll
+D:\Unity\ExampleC\ExampleClassManageStudent\bin\Debug\net8.0\ExampleClassManageStudent.pdb
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.sourcelink.json
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.dll
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\refint\ExampleClassManageStudent.dll
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.pdb
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ExampleClassManageStudent.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassManageStudent\obj\Debug\net8.0\ref\ExampleClassManageStudent.dll

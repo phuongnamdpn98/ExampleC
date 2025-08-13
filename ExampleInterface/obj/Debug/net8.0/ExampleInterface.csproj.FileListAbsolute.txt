@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleInterface\bin\Debug\net8.0\ExampleInterface.exe
+D:\Unity\ExampleC\ExampleInterface\bin\Debug\net8.0\ExampleInterface.deps.json
+D:\Unity\ExampleC\ExampleInterface\bin\Debug\net8.0\ExampleInterface.runtimeconfig.json
+D:\Unity\ExampleC\ExampleInterface\bin\Debug\net8.0\ExampleInterface.dll
+D:\Unity\ExampleC\ExampleInterface\bin\Debug\net8.0\ExampleInterface.pdb
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.sourcelink.json
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.dll
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\refint\ExampleInterface.dll
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.pdb
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ExampleInterface.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleInterface\obj\Debug\net8.0\ref\ExampleInterface.dll

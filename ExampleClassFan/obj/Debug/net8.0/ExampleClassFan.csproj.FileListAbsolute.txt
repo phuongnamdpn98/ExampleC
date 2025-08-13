@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassFan\bin\Debug\net8.0\ExampleClassFan.exe
+D:\Unity\ExampleC\ExampleClassFan\bin\Debug\net8.0\ExampleClassFan.deps.json
+D:\Unity\ExampleC\ExampleClassFan\bin\Debug\net8.0\ExampleClassFan.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassFan\bin\Debug\net8.0\ExampleClassFan.dll
+D:\Unity\ExampleC\ExampleClassFan\bin\Debug\net8.0\ExampleClassFan.pdb
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.sourcelink.json
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.dll
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\refint\ExampleClassFan.dll
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.pdb
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ExampleClassFan.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassFan\obj\Debug\net8.0\ref\ExampleClassFan.dll
