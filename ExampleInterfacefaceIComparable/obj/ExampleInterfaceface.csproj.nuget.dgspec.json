@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity\\ExampleC\\ExampleInterfaceface\\ExampleInterfaceface.csproj": {}
+    "D:\\Unity\\ExampleC\\ExampleInterfacefaceIComparable\\ExampleInterfaceface.csproj": {}
   },
   "projects": {
-    "D:\\Unity\\ExampleC\\ExampleInterfaceface\\ExampleInterfaceface.csproj": {
+    "D:\\Unity\\ExampleC\\ExampleInterfacefaceIComparable\\ExampleInterfaceface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity\\ExampleC\\ExampleInterfaceface\\ExampleInterfaceface.csproj",
+        "projectUniqueName": "D:\\Unity\\ExampleC\\ExampleInterfacefaceIComparable\\ExampleInterfaceface.csproj",
         "projectName": "ExampleInterfaceface",
-        "projectPath": "D:\\Unity\\ExampleC\\ExampleInterfaceface\\ExampleInterfaceface.csproj",
+        "projectPath": "D:\\Unity\\ExampleC\\ExampleInterfacefaceIComparable\\ExampleInterfaceface.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity\\ExampleC\\ExampleInterfaceface\\obj\\",
+        "outputPath": "D:\\Unity\\ExampleC\\ExampleInterfacefaceIComparable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
