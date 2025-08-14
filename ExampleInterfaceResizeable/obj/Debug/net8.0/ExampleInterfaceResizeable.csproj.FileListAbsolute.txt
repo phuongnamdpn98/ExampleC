@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleInterfaceResizeable\bin\Debug\net8.0\ExampleInterfaceResizeable.exe
+D:\Unity\ExampleC\ExampleInterfaceResizeable\bin\Debug\net8.0\ExampleInterfaceResizeable.deps.json
+D:\Unity\ExampleC\ExampleInterfaceResizeable\bin\Debug\net8.0\ExampleInterfaceResizeable.runtimeconfig.json
+D:\Unity\ExampleC\ExampleInterfaceResizeable\bin\Debug\net8.0\ExampleInterfaceResizeable.dll
+D:\Unity\ExampleC\ExampleInterfaceResizeable\bin\Debug\net8.0\ExampleInterfaceResizeable.pdb
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.sourcelink.json
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.dll
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\refint\ExampleInterfaceResizeable.dll
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.pdb
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ExampleInterfaceResizeable.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleInterfaceResizeable\obj\Debug\net8.0\ref\ExampleInterfaceResizeable.dll
