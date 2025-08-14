@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\bin\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.exe
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\bin\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.deps.json
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\bin\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\bin\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.dll
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\bin\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.pdb
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.sourcelink.json
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.dll
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\refint\ExampleClassAnimalAndInterfaceEdible.dll
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.pdb
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ExampleClassAnimalAndInterfaceEdible.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassAnimalAndInterfaceEdible\obj\Debug\net8.0\ref\ExampleClassAnimalAndInterfaceEdible.dll
