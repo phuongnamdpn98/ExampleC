@@ -9,8 +9,11 @@
             new Square(7)
         };
 
+        Console.WriteLine(shapes[2].ToString()); 
+
         foreach (var shape in shapes)
         {
+
             if (shape is IColorable colorable)
             {
                 colorable.HowToColor();

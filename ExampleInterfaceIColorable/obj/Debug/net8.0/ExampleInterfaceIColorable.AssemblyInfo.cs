@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExampleInterfaceIColorable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dec66df53c5e6447b8b2454f6123641712f06152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+637f32adc70d2cc5b2c8556301050c132ac80bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExampleInterfaceIColorable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExampleInterfaceIColorable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
