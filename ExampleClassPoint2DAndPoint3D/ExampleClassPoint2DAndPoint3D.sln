@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleClassPoint2DAndPoint3D", "ExampleClassPoint2DAndPoint3D.csproj", "{B2C05DBE-ED02-39EF-01EB-AA04113F73AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C05DBE-ED02-39EF-01EB-AA04113F73AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C05DBE-ED02-39EF-01EB-AA04113F73AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C05DBE-ED02-39EF-01EB-AA04113F73AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C05DBE-ED02-39EF-01EB-AA04113F73AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD43FB9-D6A5-4BBD-9353-6D95B26E0282}
+	EndGlobalSection
+EndGlobal
