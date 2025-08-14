@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleInterfaceIColorable\bin\Debug\net8.0\ExampleInterfaceIColorable.exe
+D:\Unity\ExampleC\ExampleInterfaceIColorable\bin\Debug\net8.0\ExampleInterfaceIColorable.deps.json
+D:\Unity\ExampleC\ExampleInterfaceIColorable\bin\Debug\net8.0\ExampleInterfaceIColorable.runtimeconfig.json
+D:\Unity\ExampleC\ExampleInterfaceIColorable\bin\Debug\net8.0\ExampleInterfaceIColorable.dll
+D:\Unity\ExampleC\ExampleInterfaceIColorable\bin\Debug\net8.0\ExampleInterfaceIColorable.pdb
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.sourcelink.json
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.dll
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\refint\ExampleInterfaceIColorable.dll
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.pdb
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ExampleInterfaceIColorable.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleInterfaceIColorable\obj\Debug\net8.0\ref\ExampleInterfaceIColorable.dll
