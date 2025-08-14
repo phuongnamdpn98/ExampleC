@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\bin\Debug\net8.0\ExampleClassInterritanceGeometryObject.exe
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\bin\Debug\net8.0\ExampleClassInterritanceGeometryObject.deps.json
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\bin\Debug\net8.0\ExampleClassInterritanceGeometryObject.runtimeconfig.json
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\bin\Debug\net8.0\ExampleClassInterritanceGeometryObject.dll
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\bin\Debug\net8.0\ExampleClassInterritanceGeometryObject.pdb
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.sourcelink.json
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.dll
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\refint\ExampleClassInterritanceGeometryObject.dll
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.pdb
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ExampleClassInterritanceGeometryObject.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleClassInterritanceGeometryObject\obj\Debug\net8.0\ref\ExampleClassInterritanceGeometryObject.dll
