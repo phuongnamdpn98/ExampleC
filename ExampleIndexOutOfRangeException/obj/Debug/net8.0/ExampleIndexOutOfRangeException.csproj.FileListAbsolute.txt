@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\bin\Debug\net8.0\ExampleIndexOutOfRangeException.exe
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\bin\Debug\net8.0\ExampleIndexOutOfRangeException.deps.json
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\bin\Debug\net8.0\ExampleIndexOutOfRangeException.runtimeconfig.json
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\bin\Debug\net8.0\ExampleIndexOutOfRangeException.dll
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\bin\Debug\net8.0\ExampleIndexOutOfRangeException.pdb
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.sourcelink.json
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.dll
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\refint\ExampleIndexOutOfRangeException.dll
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.pdb
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ExampleIndexOutOfRangeException.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleIndexOutOfRangeException\obj\Debug\net8.0\ref\ExampleIndexOutOfRangeException.dll

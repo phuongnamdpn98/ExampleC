@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleException\bin\Debug\net8.0\ExampleException.exe
+D:\Unity\ExampleC\ExampleException\bin\Debug\net8.0\ExampleException.deps.json
+D:\Unity\ExampleC\ExampleException\bin\Debug\net8.0\ExampleException.runtimeconfig.json
+D:\Unity\ExampleC\ExampleException\bin\Debug\net8.0\ExampleException.dll
+D:\Unity\ExampleC\ExampleException\bin\Debug\net8.0\ExampleException.pdb
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.sourcelink.json
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.dll
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\refint\ExampleException.dll
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.pdb
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ExampleException.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleException\obj\Debug\net8.0\ref\ExampleException.dll
