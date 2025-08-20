@@ -1,0 +1,15 @@
+D:\Unity\ExampleC\ExampleFileInfor\bin\Debug\net8.0\ExampleFileInfor.exe
+D:\Unity\ExampleC\ExampleFileInfor\bin\Debug\net8.0\ExampleFileInfor.deps.json
+D:\Unity\ExampleC\ExampleFileInfor\bin\Debug\net8.0\ExampleFileInfor.runtimeconfig.json
+D:\Unity\ExampleC\ExampleFileInfor\bin\Debug\net8.0\ExampleFileInfor.dll
+D:\Unity\ExampleC\ExampleFileInfor\bin\Debug\net8.0\ExampleFileInfor.pdb
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.AssemblyInfoInputs.cache
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.AssemblyInfo.cs
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.csproj.CoreCompileInputs.cache
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.sourcelink.json
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.dll
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\refint\ExampleFileInfor.dll
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.pdb
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ExampleFileInfor.genruntimeconfig.cache
+D:\Unity\ExampleC\ExampleFileInfor\obj\Debug\net8.0\ref\ExampleFileInfor.dll
